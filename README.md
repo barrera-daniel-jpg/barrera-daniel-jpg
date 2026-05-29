@@ -1,8 +1,3 @@
-<h1 align="center">Hi 👋, I'm Daniel Barrera</h1>
-<h3 align="center">Software Developer in training 🚀</h3>
-
----
-
 # Hey, I'm [Your Name] 👋
 
 > Developer in training · Curious mind · Always building something new
