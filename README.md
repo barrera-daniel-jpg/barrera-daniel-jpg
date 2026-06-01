@@ -1,4 +1,4 @@
-# Hey, I'm [Your Name] 👋
+# Hey, I'm Daniel 👋
 
 > Developer in training · Curious mind · Always building something new
 
